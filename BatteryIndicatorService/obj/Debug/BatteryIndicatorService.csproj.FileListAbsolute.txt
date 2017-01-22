@@ -1,0 +1,1 @@
+c:\users\domini\documents\visual studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\bin\Debug\BatteryIndicatorService.exe.config

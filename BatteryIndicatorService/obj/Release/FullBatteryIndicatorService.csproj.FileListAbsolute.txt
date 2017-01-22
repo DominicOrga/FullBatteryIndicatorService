@@ -1,0 +1,7 @@
+C:\Users\domini\Documents\Visual Studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\bin\Release\BatteryIndicatorService.exe.config
+C:\Users\domini\Documents\Visual Studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\bin\Release\BatteryIndicatorService.exe
+C:\Users\domini\Documents\Visual Studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\bin\Release\BatteryIndicatorService.pdb
+C:\Users\domini\Documents\Visual Studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\obj\Release\BatteryIndicatorService.ProjectInstaller.resources
+C:\Users\domini\Documents\Visual Studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\obj\Release\FullBatteryIndicatorService.csproj.GenerateResource.Cache
+C:\Users\domini\Documents\Visual Studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\obj\Release\BatteryIndicatorService.exe
+C:\Users\domini\Documents\Visual Studio 2015\Projects\BatteryIndicatorService\BatteryIndicatorService\obj\Release\BatteryIndicatorService.pdb
